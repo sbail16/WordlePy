@@ -1,0 +1,17 @@
+Building a Wordle game with an interactive GUI in Python is a great project idea! Here are some general steps you might consider:
+
+Define your classes: You might have a Game class to manage the game state, a Word class to represent the secret word and its properties,
+and a Player class to represent the player and their actions.
+
+Design your GUI: You could use a library like Tkinter to create the GUI. You'll need input fields for the player's guesses, areas to
+display the game state, and buttons to submit guesses or start a new game.
+
+Implement game logic: This includes checking if a guess is correct, updating the game state after each guess, and determining when the game is over.
+
+Connect the GUI and game logic: Your GUI should update to reflect changes in the game state, and user actions in the GUI should trigger the
+appropriate methods in your game classes.
+
+Remember, it's important to start small and test each part of your program as you build it. You might start by implementing the game
+logic without the GUI, and then add the GUI once the game logic is working correctly. Good luck!
+
+https://www.youtube.com/watch?v=JrWHyqonGj8
