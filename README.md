@@ -82,5 +82,3 @@ Steven Bailey - [@IAMSTEVENBAILEY](https://twitter.com/IAMSTEVENBAILEY)
 * And thanks to <a href="https://github.com/othneildrew/Best-README-Template/pull/73">othneildrew</a> for the README template!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# WordlePy
-# WordlePy
